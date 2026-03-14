@@ -111,22 +111,6 @@ If implemented effectively, this system could:
 
 ---
 
-## Project Team
-
-1. Dipanshu Rahangdale
-2. Chaitanya Satpute
-3. Bhargav Raikar
-4. Prajakta Lanke
-
----
-
-## Contact
-
-Email: [rahangdaledipanshu9@gmail.com](mailto:rahangdaledipanshu9@gmail.com)
-Phone: +91 9579185483
-
----
-
 ## License
 
 This project is shared for educational and research purposes.
