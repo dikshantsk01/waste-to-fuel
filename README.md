@@ -113,4 +113,4 @@ If implemented effectively, this system could:
 
 ## License
 
-This project is shared for educational and research purposes.
+This project is shared for educational only and research purposes.
